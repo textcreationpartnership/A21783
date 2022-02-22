@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. An exemplication of her Maiesties letters patent, concerning her highnesse towne and port of Hasting, in the Countie of Sussex</title>
+            <title>Proclamations. 1578-10-31</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1578</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21783</idno>
+            <idno type="STC">STC 8100</idno>
+            <idno type="STC">ESTC S116454</idno>
+            <idno type="EEBO-CITATION">99851670</idno>
+            <idno type="PROQUEST">99851670</idno>
+            <idno type="VID">16957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 564:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. An exemplication of her Maiesties letters patent, concerning her highnesse towne and port of Hasting, in the Countie of Sussex</title>
+                  <title>Proclamations. 1578-10-31</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1578]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requires money be collected throughout England for restoration of the Hastings roadstead.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Sheet 2 line 1 ends: "of"--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hastings (England) --  History --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:16957:1" rendition="simple:additions"/>
+            <head>By the Queene.</head>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon</figDesc>
+               </figure>
+            </head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> An Exemplification of her Maiesties Letters Patent, concer<g ref="char:EOLhyphen"/>ning her Highneſſe Towne and Port of Haſting, in the Countie of Suſſex.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">E</seg>Lizabeth, by the grace of God, Queene of England,</hi> Fraunce and Ireland, defender of the fayth &amp;c.</signed> 
+               <salute>To all people to whom theſe our letters patent ſhal come, greeting.</salute>
+            </opener>
+            <p>Where of our owne know<g ref="char:EOLhyphen"/>ledge and certeine ſcience we doe vnderſtande, that our Towne and Port of Haſting, in our Countie of Suſſex, being the auncient Towne of our Cinque Portes, is ſcituated vpon the maine Sea, verie neere the middeſt of a great Bay or open place, lying betweene two points of the land, which ſtretche foorth farre into the Sea, called the Beachy and the Naſſe, diſtant eache from the other thirtie miles, right oppoſite to the Realme of Fraunce, the auncient enemie of our Countrey: as we are credibly enfourmed, the ſame Towne hath of long time beene a place not onely very well inhabited with warlike people, and greatly repleniſhed with good Mariners and other men meete and ſeruiceable for our Nauy, well ſtored with Shippes, Barkes, Crayers, and Boates, but alſo ſufficiently furniſhed with Armour, and Artillery of all ſortes, both for Sea &amp; Land: alſo very meete and commodious for Fiſhing, and the Bay plenteouſly abounding with all ſorts of Fiſh, according to the ſeuerall ſeaſons of the yere: by reaſon whereof the ſame Towne hath of long time bene by the inhabitants thereof, in time of warres, manfully defended againſt the ſundry inuaſions and at<g ref="char:EOLhyphen"/>tempts of the French Nation, our coaſte therabouts lying very open againſt the French, by them often kept from ſpoilc. Our Marchants and louing Subiects, and other Trauellers ſayling along that coaſt, haue often times by their Shippes, and often times by their harborough, beene ſaued and reſcued from the furie of the enemies, and the tyrannie of Pirates: our Nauy, and the Nauy of ſundry our noble Pro<g ref="char:EOLhyphen"/>genitors. Kinges of this Realme, the better appoimed by reaſon of their ſkilfull Mariners, and cunning Seamen: Alſo our houſehold, our Citizens of London, and our Countreys to the ſaid Port adioyning, greatly benefited by their fiſhing. And where our ſaid Towne hath of long time had a Peere or Harbo<g ref="char:EOLhyphen"/>rough made of Timber, and other things ſet and placed in the Sea, for the ſuccour of the Seamen, and defence of their Shippes, Barkes, Crayers and Boates, againſt the great rage and furie of the Sea, which hath bin alwaies mainteyned at the great and importable charges of the inhabitants of our ſaide Towne of Haſting, vntill of late time the ſame Peere or Harborough was at a ſudden, by the great vio<g ref="char:EOLhyphen"/>lence and extreme rage of the Sea, broken downe and caried away: ſithence which time the Towne is much decayed, the traffique of Marchants thither forſaken, the fiſſhing, by reaſon of the dangerous lan<g ref="char:EOLhyphen"/>ding<g ref="char:punc">▪</g> litle vſed, the riche and wealthy men gone thence, and the poore men yet remaining would gladly doe the like, if without offence of our lawes they might be elſewhere receiued, whereby our people are likely to periſhe, and our ſaide Port likely to be ſubuerted and become deſolate, or els the people there by neceſſitie driuen to commit great and heynous offences, to the great hinderance of the publique weale, vnleſſe ſome ſpeedie remedie be for them prouided. And where we be enformed by diuers of our priuie Counſell and Nobilitie, and by diuers Artificers verie cunning and ſkilful in that kinde of facultie, that a verie good Hauen or Rhoade, for the arriuing and ſauegard of Shippes, Barkes, Crayers and Boates, may nere vnto the ſaid Porte with no great charge be made, to the great reliefe of the inhabi<g ref="char:EOLhyphen"/>tants,
+<pb facs="tcp:16957:2" rendition="simple:additions"/>and of all Marchants and trauellers ſayling along the narrowe Seas, and to the ſtrength of our ſaid Coaſte: and that the Inhabitants of our ſaide Porte be ready and willing to beſtowe their landes, goodes, and labours, to the vttermoſt of their power, to accompliſh the ſame: notwithſtanding of themſelues very vnhable to finiſh ſo great a worke, likely as it is thought to amou<g ref="char:cmbAbbrStroke">̄</g>t vnto the ſumme of foure thouſand poundes. We therefore conſidering the premiſſes, &amp; minding to prouide for the pre<g ref="char:EOLhyphen"/>ſeruation of our people, the maintenance of our Nauy and Towne, for the defence of our Coaſte, &amp; of Marchants &amp; trauellers, and that the prouiſion of our houſeholde, our Citie and Countrey be not di<g ref="char:EOLhyphen"/>miniſhed, at the humble ſute of our Bailife, Iurates, &amp; Comminaltie of our ſaide Towne of Haſting, do by theſe our letters Patents not onely giue &amp; graunt vnto our ſaid Bailife, Iurates, and Commi<g ref="char:EOLhyphen"/>naltie, full power and authoritie, to make newe, &amp; finiſhe one Hauen, in ſuch place or places nere vnto our ſaide Towne and Port, as to them ſhall ſeeme moſt conuenient, and to the finiſhing &amp; accompli<g ref="char:EOLhyphen"/>ſhing thereof, yeeld our Royall aſſent and conſent: but alſo for the furtherance &amp; better helping forth of the ſame, we do commed the ſame good &amp; laudable intent and purpoſe, to the charitable and liberall contribucion &amp; beneuolence of all and ſinguler our louing ſubiects dwelling within any our Realmes and Dominions, that the rather for our recommendation, the more liberall contribucion by our ſayde Subiects may be yeelded to the finiſhing of the ſaid Hauen, a worke te<g ref="char:cmbAbbrStroke">̄</g>ding much to the defence of our Realmes, and to the profite of the common wealth of the ſame, and which wilbe cauſe to auoide manie great inconueniences that may inſue by the neglecting thereof: &amp; alſo be au euident declaration of the forwarde and willing mindes of all our louing Subiects, to augment the proſperitie of our Realmes and Countreys. We of our ſpeciall grace, certaine knowledge, and meere mocion, haue giuen and graunted, and by theſe our letters Patent, doe giue &amp; graunt full licence, permiſſion, and authoritie to our faithfull and welbeloued Subiects, Richard Calueley, and Iohn Iefferey, Iurates of our ſaide Towne of Haſting, and William Relfe of Ore Gentleman, and to euery of them, and to all and euery other perſon or perſons that ſhalbe thereunto deputed and aſſigned by them, or by any two of them, by writing vnder the common ſeale of our ſaide Towne of Haſting, to aſke, receiue, collect, and take of all maner of perſons whatſoeuer, Spirituall or Temporall, Engliſhe borne or Straungers, in all places, as well within liberties as without, exempt or not exempt, our Citizens of London or els where, within any our Realmes, Cities and Dominions whereſoeuer, Chriſtian contribucion &amp; be<g ref="char:EOLhyphen"/>neuolence of all our ſaide louing Subiectes, that it may or ſhal pleaſe God to mooue or ſtirre them to giue, contribute, yeelde and paye towardes the new making of the ſaid Hauen. And for the better and more ſpeedie execution of this our pleaſure, we doe by theſe our ſaide letters Patent, will, require, &amp; ſtraightly commaund all our Sherifes in their ſeuerall Sheires &amp; Counties, all our Iuſtices of peace in their ſeuerall limittes, and all Maiors, Baylifes, and all other head Officers, within all Cities, Townes corporate, and other Iuriſdictions, and alſo all Parſons, Vicars, Miniſters, &amp; Curates of Churches and Pariſhes, not onely of their owne partes to be helping with their liberall deuotion to ward the ſaid good and laudable worke, but alſo to recommende our ſpeciall pleaſure, and the furthe<g ref="char:EOLhyphen"/>rance of the ſaid Hauen in their ſeueral Counties, Limittes, Cities, Townes, Liberties, Pariſh chur<g ref="char:EOLhyphen"/>ches, Hamlets, or Villages, for the better obteining of liberal contribution thereunto. And further our wil &amp; pleaſure is, that ſome of the honorable of our priuie Counſel ſhal vpo<g ref="char:cmbAbbrStroke">̄</g> the ſight of theſe preſents, or of the Exemplification of the ſame, at the requeſt of y<hi rend="sup">e</hi> ſaid Richard Calueley, Iohn Iefferey, &amp; William Relfe, or of any of the<g ref="char:cmbAbbrStroke">̄</g>, direct their letters to y<hi rend="sup">e</hi> Lord Maior of our Citie of London, &amp; to the Iuſtices of peace of the ſame Citie, to all Sherifes in euerie our Sheires or Counties within our Realme &amp; Do<g ref="char:EOLhyphen"/>mimons, and to all Maiors, Bailifes, Gouernors, &amp; head Officers of Cities, Boroughs, Townes cor<g ref="char:EOLhyphen"/>porate, Ilandes, &amp; Franchiſed places, commaunding the ſaid Lord Maior, the Iuſtices, the ſaid She<g ref="char:EOLhyphen"/>rifes, Bailifes, Gouernors, and head officers aforeſaid, that they &amp; euery of them, within their ſeue<g ref="char:EOLhyphen"/>ral Limittes, Iuriſdictions or liberties, which ſhalbe next after y<hi rend="sup">e</hi> receipt of the ſaid letters, or of theſe preſents, or the Exemplification of the ſame, ſhall direct the tenor of this our pleaſure to all &amp; ſinguler Iuſtices of peace within their ſeuerall Limittes, Iuriſdictions or Liberties, requiring, and ſtraightly co<g ref="char:cmbAbbrStroke">̄</g>maunding them &amp; euery of the<g ref="char:cmbAbbrStroke">̄</g> in our name, to appoint with all co<g ref="char:cmbAbbrStroke">̄</g>uenient ſpeede within their ſeue<g ref="char:EOLhyphen"/>rall Limittes, one Conſtable in euery Hundred, Rape, Lathe, or Wape<g ref="char:cmbAbbrStroke">̄</g>take at the leaſt, &amp; one Church<g ref="char:EOLhyphen"/>warden in euery Pariſh, and them to commande &amp; exhort, not onely to be liberall them ſelues in their contribucion, but alſo that the ſaide Conſtables &amp; Churchwardens ſhal write the name of euery Pa<g ref="char:EOLhyphen"/>riſh, and of euery man of habilitie within the ſame, and of them to aſke &amp; receiue their deuocion, &amp; ear<g ref="char:EOLhyphen"/>neſtly in our name to exhort them to liberalitie, in contributing to the making of the ſaide Hauen, and truely to write downe the ſumme which euery man ſhall giue, and the money which they ſhal thereby collect and receiue, and the names of euery giuer, and the true ſumme which euery one ſhall giue, &amp; al<g ref="char:EOLhyphen"/>ſo
+<pb facs="tcp:16957:3" rendition="simple:additions"/>the names of al ſuch as ſhal not giue, or ſhal refuſe to contribute, in writing ſhal within one moneth next after they ſhal haue notice of this our pleaſure, deliuer vp vnto ſuch our Iuſtices of peace of who<g ref="char:cmbAbbrStroke">̄</g> they receiued their charge, if he ſhal then be liuing, otherwiſe to ſuch of our Iuſtices as ſhalbe next dwelling thereaboutes. And that our further pleaſure is, that our ſaid Iuſtices of peace ſhal by their warraunt call before them, al &amp; ſinguler ſuch perſons as ſhal refuſe to giue or contribute liberally to<g ref="char:EOLhyphen"/>wards this good worke, and vnderſtand the cauſe of their refuſall, &amp; vnto them declare our pleaſure, exhorting and perſwading them to conformitie, which if they ſhal notwithſtanding, obſtinately re<g ref="char:EOLhyphen"/>fuſe, then to certifie their names and dwelling places to vs, or to our priuy Counſel. And that our ſaid Iuſtices of peace and euery of them, ſhall at the Seſſions or generall aſſemblie, holden next within their ſaide ſeuerall Sheires, Limittes, Iuriſdictions or Liberties, deliuer and yeelde vp vnto the ſaid Lorde Maior, Sherifes, Maiors, Bailifes, Gouernours, or head Officers, by bill indented, vnto which their handes or markes ſhalbe ſet, whereof the one part ſhal remaine with the ſaid Iuſti<g ref="char:EOLhyphen"/>ces, the other with the ſaid Lorde Maior, Sherifes, Maiors, Bailifes, and other head Officers, all ſuch ſummes of money as they ſhal haue receiued as aforeſaid, together with y<hi rend="sup">e</hi> ſame writings made of the names &amp; of the money giuers: and the ſaid Lorde Maior, Sherifes, Maiors, Bailifes, Gouer<g ref="char:EOLhyphen"/>nors and head Officers, and euery of them ſhal within one moneth next after the receipte thereof, tranſport and carrie, or cauſe to be carried vnto our ſaide Citie of London, al ſuch ſummes of money as they ſhall haue receiued towards the ſame contribucion, together with the ſaide billes indented, and the ſame money there ſhal pay, and the ſaide bils indented there deliuer to our louing Subiects, Thomas Smith Eſquier, one of the Cuſtomers of our Citie of London, Iohn Heynes Eſquier, Sericant of our Catry, and William Heynes Gentleman, Purueior of our prouiſion of Sea fiſh, or to one of them at the newe Manſion houſe of the ſaide Thomas Smith, within our ſaide Citie of London, who vpon the receipt thereof ſhall giue vnto the ſaide Lorde Maior, Sherifes, Maiors, Bailifes, Gouernors, and other head Officers from time to time, an acquittance of the receipt therof, and ſhal keepe the ſame money and billes indented in one Cheſte, to remaine with the ſaid Thomas Smith vnder three ſeuerall lockes, whereof one Key to remaine with the ſaide Thomas Smith, another with the ſaide Iohn Heynes, and the third with the ſaide William Heynes, and that they from time to time, vpon demand therof to be made at the newe Manſion houſe of the ſaide Thomas Smith, within our ſaid Citie of London, ſhall yeelde and pay ouer the ſame money, and deliuer the ſaid bils indented ſo by them receiued, &amp; euery part thereof vnto our welbeloued, the right honorable Anthony Viſcount Montague, Knight of the moſt honorable order of the Garter, William Lorde Cobham, Warden of our Cinque Portes, and Conſtable of our Caſtle of Douer, Thomas Lorde Buckhurſt, the ſaide Richard Calueley, Iohn Iefferey, and William Relfe, or to any three of them, wherof ſome one of the right honorable aforeſaid or his ſufficient deputie to be one: which ſaid right honorable Anthony Viſcount Montague, William Lord Cobham, Thomas Lorde Buckhurſt, and the ſaid Richard Calueley, Iohn Iefferey, and William Relfe, we do ordeine, appoint and conſtitute, Surueyors of the ſaide worke, giuing them, &amp; to any three of them, whereof ſome one of the ſaid ho<g ref="char:EOLhyphen"/>norable, or his ſufficient deputie to be one, full power and authoritie to ſet out, direct, gouerne, order, and rule the ſaid worke, and the workemen about the ſame, and the ſaid workemen and laborers to pay, or cauſe to be paied: and of their proceedings and ſucceſſe in the ſaid worke, to certifie vs or our priuie Counſell vnder their handes and ſcales euery halfe yeere: So that expreſſe mention of the cer<g ref="char:EOLhyphen"/>taintie of the premiſſes, or of any other gift or graunt heretofore made by vs, or by any of our proge<g ref="char:EOLhyphen"/>nitors to the ſaid Richard Calueley, Iohn Iefferey, and William Relfe, and in theſe preſentes be not rehearſed or declared, or any act, ſtatute, ordinance, prouiſion, or reſtraint to the contrary hereof, had, made, ordeined or prouided, or any other cauſe or matter whatſoeuer to the contrary in any wiſe, not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>In witneſſe whereof we haue cauſed theſe our letters to be made Patentes:</p>
+            <closer>
+               <dateline>witneſſe our ſelfe at Cheynis, <date>the one and thirtieth day of October, in the twentieth yere of our raigne. 1578.</date>
+               </dateline>
+               <lb/> 
+               <hi>God ſaue the Queene.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+               </figure>
+            </p>
+            <p>Imprinted at London by Chriſtopher Barker, <hi>Printer to the Queenes Maieſtie.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
